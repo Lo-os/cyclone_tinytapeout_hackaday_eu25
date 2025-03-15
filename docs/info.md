@@ -13,7 +13,7 @@ Flipflop
 
 ## How to test
 
-Explain how to use your project
+Hands on
 
 ## External hardware
 
