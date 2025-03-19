@@ -9,14 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Flipflop
+Cyclone game, stop the LED at the certain possition. 
 
 ## How to test
 
-Hands on
+https://wokwi.com/projects/425498910144429057
 
 ## External hardware
 
 - CLK
-- Button
-- 2x LEDS
+- 3x Button
+- 1x 7Segment Display
